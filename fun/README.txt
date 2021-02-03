@@ -1,6 +1,6 @@
           Genome comparison tool for leucine-responsive transcriptional regulator
-          Version 1.01
-          1/29/2021
+          Version 1.1
+          29 Jan 2021
           Nicolas Rohr
 Written in Python version 3.7.4 on windows 10.0.18363
 Makes use of the Biopython package 1.78 https://biopython.org/docs/1.75/api/Bio.html
