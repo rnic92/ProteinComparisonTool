@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from Bio import Entrez
 from substring import substr_after, substr_before
 from compare_genome import comparisons
